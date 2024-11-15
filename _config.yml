@@ -53,3 +53,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-minimal
+title: Multiphysics and Multiscale Simulation Group Website
+description: Group website for the M&M research group at UIUC headed by Professor April Novak.
